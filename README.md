@@ -2,11 +2,9 @@
 
 ## 🚀 Overview
 
-> This project is a backend API server developed using **Node.js** and **Express.js**, designed to simulate the core backend functionality of a **YouTube-like application**. Created as part of my learning journey, the goal was to gain a comprehensive understanding of RESTful API concepts, including server-side development, routing, request handling, and data operations. Through this project, I explored practical implementations of features such as user management, video handling, and endpoint structuring to strengthen my backend development skills.
+> This project is a backend API server developed as part of my learning journey to gain a deep understanding of RESTful API concepts. Built with Node.js and Express.js, it simulates the backend functionality of a YouTube-like application, enabling me to explore server-side development, routing, and data handling in a practical context.
 
 ## 📁 Project Structure
-
-
 ```bash
 backend/
 ├── src/
@@ -25,15 +23,12 @@ backend/
 └── README.md              # Project documentation and overview
 ```
 
-
-## 🧰 Installation
-
+## Installation 
 Clone the repository:
-
 ```bash
 git clone https://github.com/Meet026/backend.git
 cd backend
-
+```
 
 Install dependencies:
 ```bash
