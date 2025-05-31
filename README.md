@@ -26,7 +26,7 @@ backend/
 ## Installation 
 Clone the repository:
 ```bash
-git clone https://github.com/Meet026/backend.git
+https://github.com/AakankshaVora/backend-with-JS.git
 cd backend
 ```
 
